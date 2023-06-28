@@ -252,6 +252,7 @@ nav {
     width: 100%;
     height: 1034px;
     background-image: url(../image/index/bannerBg.png);
+    backgroung-size:100% 1034px;
     position: relative;
     font-size: 1px;
     padding-bottom: 8rem;
